@@ -1,0 +1,10 @@
+* bnf
+
+BNF example generator.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/hyotang666/bnf.git   |
+| commit  | 16b57af  |
+| systems | bnf |
+|---------+-------------------------------------------|
+
